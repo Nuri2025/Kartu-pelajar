@@ -1,0 +1,14 @@
+# Kartu Pelajar Frontend
+
+Ini adalah aplikasi frontend untuk sistem kartu pelajar digital. Dibangun menggunakan Next.js dan React.
+
+## Cara Menjalankan
+
+1. Install dependencies:
+   ```
+   npm install
+   ```
+2. Jalankan aplikasi:
+   ```
+   npm run dev
+   ```
